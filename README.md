@@ -1,1 +1,1 @@
-# Stock-MArket-Forecasting
+# Deep Learning LSTM Forecasting
